@@ -7,5 +7,5 @@
 <div>
 
 <div align="center">
-   <img src="img/contraseña.jpg" width="758" height="513">
+   <img src="img/photo_2023-07-23_16-49-18.jpg" width="758" height="513">
 </div>
